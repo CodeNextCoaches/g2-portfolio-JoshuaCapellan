@@ -1,0 +1,37 @@
+nav ul{
+	list-style: none;
+}
+
+nav ul li{
+	display: inline;
+	border: 1px solid grey; 
+	padding: 10px;
+}
+
+span {
+	float: right;
+}
+
+body {
+	background-color: black;
+	color: white;
+}
+
+.icon{
+	width: 30px;
+}
+
+p{
+	margin: 2px;
+}
+
+html{
+	box-sizing: border-box;
+}
+*,*: before, *: after{
+	box-sizing: inherit;
+}
+
+nav {
+	font-size: 15px;
+}
