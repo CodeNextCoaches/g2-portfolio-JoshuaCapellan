@@ -4,8 +4,7 @@ nav ul{
 
 nav ul li{
 	display: inline;
-	border: 1px solid grey; 
-	padding: 10px;
+	
 }
 
 span {
@@ -13,8 +12,12 @@ span {
 }
 
 body {
-	background-color: black;
-	color: white;
+	background-color: teal;
+	color: black;
+}
+
+img{
+	width: 500px;
 }
 
 .icon{
